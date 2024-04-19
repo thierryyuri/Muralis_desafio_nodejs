@@ -33,7 +33,7 @@
 
 - Instalar o node no computador
 - Instalar o Mysql no computador
-- Acessar o banco e criar um schema chamado crud
+- Acessar o banco e criar um schema chamado `crud`
 - Rodar o sql que se encontra em `./src/config`
 - Acessar via `CMD` ou Terminal do `Visual Studio Code` a pasta raiz do projeto (onde se encontra o `index.js`)
 - Rodar o comando `npm install` para instalar as dependências configuradas no package.json
