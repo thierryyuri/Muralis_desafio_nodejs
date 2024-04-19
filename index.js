@@ -95,4 +95,3 @@ app.delete("/api/tiposPagamento/:id", async (req, res) => {
     
 })
 
-// Rotas para acessar os controllers de categoria
