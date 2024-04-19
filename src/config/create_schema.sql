@@ -1,4 +1,4 @@
-use muralis;
+use crud;
 
 CREATE TABLE tipos_pagamento (
 	id int unsigned not null auto_increment,
